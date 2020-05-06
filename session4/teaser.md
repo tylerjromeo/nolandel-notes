@@ -1,0 +1,3 @@
+Far to the south in Nolandel's capital city, Hammerfast, a cold wind blows, and a low howling sound sweeps over the city. The people in the marketplace look up from their shopping trying to locate the source of the noise. With a low rumble, wooden buildings all over the city begin to fall as their supports rot out from under them. The ground opens up beneath the city as a giant sinkhole swallows the market district. People and animals flee from a swarm of grave beetles, but many are not fast enough. They fall to the ground, their muscles shriveled and old as mummification takes hold of their bodies.
+
+A crow flies above the city down to the section, nearly a third of the city's size, which in a matter of minutes has been lost to Decay.
