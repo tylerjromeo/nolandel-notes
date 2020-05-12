@@ -1,3 +1,9 @@
+# In the inn
+
+It's morning, and you 4 are the only guests in the common room of the inn. The innkeep has prepared some fried bread and bacon for the group, as well as cups of very strong tea. "Anything else for you lot?" He says.
+
+"Excellent playing before, Mr. Stormwind. Glad you could come out here"
+
 # Blade headquarters
 
 When you return, people are moving around very quickly. Dispite the late hour, there's a lot of activity and nervous energy. You see JoJo among those moving around, she's carrying a large scak of magic scrolls and yelling something at a group of elves. Blood is dripping from a nasty cut above her eyebrow.
@@ -50,3 +56,10 @@ Morelian and Toorshuul are coming with
 
 # In Roorsven
 
+"Mister Stormwind, a word if you please"
+
+"Some Imperials dropped this off this morning"
+
+He shows you a poster that reads: "Wanted for: inciting a riot, resisting arrest, assault of an Imperial officer, and murder. Last seen in Orreton"
+
+And on the poster are sketches of Orrin Cragjaw, Boyland the Miner, and the four of you.
