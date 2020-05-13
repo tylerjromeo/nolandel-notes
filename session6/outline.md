@@ -63,3 +63,11 @@ Morelian and Toorshuul are coming with
 He shows you a poster that reads: "Wanted for: inciting a riot, resisting arrest, assault of an Imperial officer, and murder. Last seen in Orreton"
 
 And on the poster are sketches of Orrin Cragjaw, Boyland the Miner, and the four of you.
+
+Morelian: "According to my readings... The surge is to the north, near where the River meets the ocean. There's likely to be a lot of caves around there. We should ask around to find a boat, and figure out what it's like up there"
+
+# At smuggler's cave
+
+Fight merrows
+
+They can understand their speech
