@@ -6,6 +6,8 @@
 
 Merrow fight
 
+The smugglers were carrying a barrel (now broken) full of a crackling powder that smells like ozone. (distilled storm)
+
 2. entrance pool
 
 A wide open cave with a large pool in the center. There are several pillars extending out of the pool into the ceiling. The north and south of the pool have rocky shores you can ground the boat on. There's one passageway leading to the west one to the southeast from land, and the pool continues with a small river going to the east.
@@ -16,23 +18,61 @@ Locked door on
 
 3. benches/camp
 
+Tycho (halfling rogue) and Genna (tiefling sorceror) are slacking off on guard duty in here.
+
+DC 10 to detect alarm trap outside.
+
+They are talking about what they are going to do with the money from the next score.
+
+Tycho: 12g, a sling + rocks
+Genna: 4g, alchemy set, barkskin potion
+
 4. small pool/cache
+
+No one is in here
+
+Hidden in the bottom of a pool under a rock is 32g and a set of thieves tools wrapped in a lamb skin.
+
+Moving the rock causes 2 glue traps to explode. Their hands are stuck to the rock for 1 hour (or until they figure out how to get rid of it). Writing appears on the rock "I told you not to touch my shit, Genna"
 
 5. large pool
 
+around the side of the pool are several tables/desks. Searching will net them:
+
+Ledgers showing lists of goods and figures. The lowest entry on the ledger has some very high numbers in the tens of thousands.
+
+Bags of gold around in varying amounts, with names on them. Total is 324g.
+
+
 6. sleeping area
+
+1 bed, 6 bedrolls. Crates are full of clothing/footlocker stuff
+
+Asleep are
 
 7. "kitchen"
 
+A firepit still smoldering, some dirty plates strewn about on the table.
+
+A whole pig is hanging from a hook suspended from the ceiling, partially butchered
+
+Armin (The gardener) is sitting in here, reading a book and drinking a cup of wine.
+
 8. treasure room
 
+chests, crates, and shelves and shelves of goods line the walls of this room. Large statues, piles of silk and cloth, barrels of rare spices. There is over 10000g worth of good in this room. An also more than 10,000 pounds worth.
+
+Grabbable things: Small gold monkey statue, ornate tea set, large vial of quicksilver. Sack (30lbs) of Saffron
+
 9. large corridor
+
+If fighting is going on, you hear the roar of monsters and the cheers of several male voices. torchlight crackles up the corridor.
 
 10. fighting pit
 
 In the pit are an owlbear and a Yeti
 
-around the pit are
+around the pit are Hela, Reynaud, Pacha, and Scales
 
 11. river ext.
 

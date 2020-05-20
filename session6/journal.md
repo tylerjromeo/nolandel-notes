@@ -8,4 +8,5 @@ Last session we:
 * Morelian and Torshuul went into town to learn more, while the party headed north towards the energy
 * Climbed a cliff to continue north, and fought some mountain lions in the woods
 
-Next session: we arrive at the site of the Mysterious Storm Energy
+Nex
+ session: we arrive at the site of the Mysterious Storm Energy

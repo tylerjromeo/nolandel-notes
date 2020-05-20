@@ -22,12 +22,12 @@ Have set traps:
 members:
 * 4 dead outside
 * Armin (human rogue) (the gardener)
-* Hela (Gnome rogue)
-* Genna (Tiefling sorceror)
+* [x] Hela (Gnome rogue)
+* [x] Genna (Tiefling sorceror)
 * Reynaud (Elf fighter/wizard) Their leader
 * Pacha (dwarf barbarian)
 * Scales (Mute Dragonborn barbarian)
-* Tycho (Halfling Monk)
+* [x] Tycho (Halfling Monk)
 
 ### Merrows/primordials
 
