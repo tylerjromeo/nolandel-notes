@@ -14,7 +14,7 @@ A wide open cave with a large pool in the center. There are several pillars exte
 
 Alarm trap on southest passage
 
-Locked door on
+Locked door on west passage. It's trapped with a nasty fire spell that explodes on the other side.
 
 3. benches/camp
 
@@ -92,36 +92,81 @@ further north, get attacked from above (18)
 
 Asleep and in cages there are a Bugbear Chief, a Quaggoth, and a Wyvern
 
-13. shipwreck chamber/merrow gallery
+13. Hobgoblin zone
+
+5 hobgoblins are posted up in here. They are planning a heist on the merfolk.
+
+120g in loot
+
+sleep sacks in the corner. Some grey meat.
 
 14. maze
 
+2 Ankhegs in here
+
 15. pit chamber
+
+Ochre jelly hanging from ceiling.
+
+Pits here fall into 16.
 
 16. bottom of the pit
 
+Treasure chest has a +1 three section staff in it
+
 17. monster lair
+
+An azer is hanging out here. Muttering to himself and cursing reynaud for bringing him to this place.
+
 
 18. lookout post
 
+1x bandit up here with a +1 longbow
+
+In the lookout station are the dark moon documents. Lots of empty space but no treasure. Very large sums on the ledgers in here. It also mentions the solution to a puzzle in 28 (blood of a dark moon initiate will open the door)
+
 19. untouched cave
 
+There is a steep slope in here, DC 15 check to climb up. Failure means slding back down and crashing on the wallks of the cave. Each time damages the cave, 3 failures and it's closed off.
+
 20. untouched cave (small)
-* stalagmine stepstones
+* stalagmine stepstones DC 15 acrobatics to cross. Failure means falling into 16.
 
 21. natural treasure
+
+River in here leads back into watter passages
 
 8x bead of force
 
 22. water passages
 
+fight
+
+1x sahuagin priestess
+
+4x sahuagin
+
+as they fight more sahuagins come in from adjoining chambers.
+
+Can lure them to land
+
 23. water passage staging area
+
+Empty, but full of debris. Bones, broken spears, shell necklace fragments etc. There are also things hanging from the ceilings. Hooks with skeletons suspended upside down, a rotten suit of leather armor.
 
 24. flotsam chamber
 
+The spoils of the sahuagin tribe's conquests are here. 2200g in jewels. A second canoe. Lots and LOTS of salted fish. 2x potion of greater healing.
+
+There is a sea hag in here 
+
 25. small shore
 
+There is an energy barrier here. (dispelled once they confront the storm avatar in 28)
+
 26. pre-boss save point
+
+The corridors have been polished to a mirror sheen by the force of storm. You are indoors, but it's raining heavily.
 
 27. whirlpool
 
@@ -133,6 +178,45 @@ Small fight? get pushed out of the cave and storm escapes.
 
 28. secret treasure chambers
 
-Dark, no moon stuff in here
-Maybe a cursed item
-final room has "storm shards" gathered in it, and it's sealed. Heros have to break it. When they do, storm isn't there, but they can follow the path to the whirlpool
+Door is both locked and trapped. If the trap goes off then the Helmed horror comes alive. If they touch the helmed horror, it comes alive.
+
+Trap and/or helmed horror can be disabled by drawing the dark moon sigil in blood on the door/armor.
+
+The hallways contain some horrific stuff, torture instruments, Body parts floating in jars. Necromancy tools.
+
+Scrolls: Cause fear, Speak with Dead, Animate Dead, Vampiric Touch.
+
+In the furthest room back is the cache of distilled storm. A storm avatar is sitting in here. It's speaking primoridal, a language you didn't know you understood until now.
+
+"The great storm gathers in the North Sea. Soon she will crash and rumble above all and refresh the stagnant water of the land"
+
+"Champion of the Storm, you must be tested before you can be allowed to approach the storm. The whirlpool shall reveal if you are worthy of the Storm's fury."
+
+The avatar disappears, and the glow of the distilled storm fades. But you notice something buried in the dust.
+
+# Magic Bodhran 
+
+https://www.youtube.com/watch?v=dMI4X8OOMOg
+
+
+
+Wondrous item, rarity varies (requires attunement by a bard)
+
+An instrument ofthe bards is an exquisite example of it kind, superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a legendary bard college. The following table lists the spells common to all instruments, as well as the spells specific to each one and its rarity. A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take 2d4 psychic damage.
+
+You can use an action to play the instrument and cast one of its spells. Once the instrument has been used to cast a spell, it can’t be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
+
+When you use the instrument to cast a spell that causes targets to become charmed on a failed save, the targets have disadvantage on the saving throw. This effect applies whether you are using the instrument as the source of the spell or as a spellcasting focus.
+
+Spells:
+* Fly
+* Invisibility
+* Levitate
+* Protection from good and evil
+* Chromatic orb (level 3, only lightning or thunder damage)
+* Call lightning
+* Beacon of Hope
+
+29. Bullywug coup area
+
+3 bullywugs planning to take the river from the merfolk. They have no chance. Comic relief
