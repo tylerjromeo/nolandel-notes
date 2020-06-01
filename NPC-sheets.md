@@ -63,3 +63,11 @@ AC 12
 
 ##### Level 5
 * contact other plane
+
+# Derek
+
+Magmin thrill seeker. Got banished a lot
+
+# Pyrus
+
+Azer who was bound to the smuggler's cave. They made a bargain where they freed Pyrus and he showed them treasure
