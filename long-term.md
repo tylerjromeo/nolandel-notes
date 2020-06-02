@@ -1,9 +1,9 @@
 Currently: extra d10 damage when bloodied if they are all 4 together
 
-Bandor - storm
-Henry - smoke
-Duur-Ima - blight
-Drang - Decay
+Bandor - storm (north)
+Henry - smoke (west)
+Duur-Ima - blight (east)
+Drang - Decay (south)
 
 storm arc:
 elemental energy is gathering in a smuggler's cave north of Roorsven in the North sea
