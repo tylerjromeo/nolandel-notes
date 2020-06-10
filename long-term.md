@@ -21,3 +21,10 @@ goals:
 Smoke arc:
 - Heist mission
 - meet the emperor
+
+
+Things ruin has done:
+got party together
+Brought blade to find them
+Got the emperor to gather distilled storm in 1 place
+planted Drang's sword

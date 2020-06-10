@@ -20,3 +20,11 @@ Always in stock:
 | Spell scroll (any cantrip) | 10g | Spell scroll for any cantrip | DMG 200 |
 | Adamantine armor upgrade | 500g | upgrade medium or heavy armor to turn critical hits against you into normal hits | DMG 150 |
 | Mithril armor upgrade | 800g | upgrade medium or heavy armor to remove STR requirement, and remove disadvantage on stealth cheks | | DMG 182 |
+
+scrolls:
+Cause fear (1) (x2) (60g each)
+Speak with Dead (3) (200g each)
+Animate Dead (3)
+Vampiric Touch (3)
+
+selling: (20 + persuasion)/40 * base price
