@@ -28,3 +28,7 @@ got party together
 Brought blade to find them
 Got the emperor to gather distilled storm in 1 place
 planted Drang's sword
+
+Powers:
+Elemental surge: If 2 or more members of the party are bloodied, you deal an additional 1d10 elemental damage on attacks.
+Elemental control: once per day, if you can use your element to help in a skill check, gain advantage on that check.
