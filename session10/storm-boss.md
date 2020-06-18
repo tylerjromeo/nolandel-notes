@@ -1,5 +1,11 @@
 # Descriptions
 
+Noah and Hartman
+
+The mast of the Nobleman's expensive ship crashes into the sea with a defeaning splash. The impact causes the boat to capsize, and young Bandor, Noah and Hartman are all pulled under the surface. the world around you seems to grow smaller and further away as tunnel vision sets in. Then suddenly, you feel a force pulling you upwards out of the water. a piece of the ship finds its way under your arms and it's all you can to to cling to it through the storm.
+
+It's a clear, bright morning, and the tide in coming in. The waves carry with them the remains of a nobleman's expensive sailing ship. Young Bandor is clinging to a large flating plank. You drift back to conciousness as the sea deposits you on the shore with the ship's splintered remains.
+
 The voyage on Cronn's ship "Kraken's Bane" is underway, nearly all the way upriver, but the journey is difficult. The wind and rain keep increasing. Cronn is at the helm of the ship with Morelian, consulting a map of the North sea. The crew is hurrying around working hard keeping the sails intact and looking very nervous, except of course, for Bodhi and his 3 beach Dwarves, who are singing while they work in defiance of the storm. Bodhi has used the word "gnarly" 13 times in the last 5 minutes.
 
 As thunder crashes all around you, Torshuul descends from the crows next "Imperials behind us. They aren't gaining ground but if they survive the storm they'll get to us once we stop.
@@ -78,7 +84,13 @@ At the beginning of each round, waves come up on a random section of the ship, k
 
 # big phase
 
+90hp
+
 ## Thunder blast
+
+150hp
+
+15ac
 
 +6 attack against a target. 1d8 thunder damage and push 5 ft on a hit.
 
