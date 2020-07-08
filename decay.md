@@ -21,6 +21,7 @@ Decay arc
 
 * travel to Hammerfast, see vicious shining skull carnage.
 * In hammerfast see impact of decay, need to investigate it's increase
+* opportunity to restore Drang's sword?
 * Discover cause
 * Find Abhava (encounter skelepede?) It's in the catacombs under the great gray tower
 * Travel to Shining Skull
