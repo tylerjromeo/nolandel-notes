@@ -22,6 +22,8 @@ Brought blade to find them
 Got the emperor to gather distilled storm in 1 place
 planted Drang's sword
 showed Kiri the prophecy
+Manipulated Marwen to put the abhava beneath Hammerfast
+Gave everyone visons (session 14.5)
 
 Powers:
 Elemental surge: If 2 or more members of the party are bloodied, you deal an additional 1d10 elemental damage on attacks.
