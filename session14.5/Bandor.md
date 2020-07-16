@@ -1,5 +1,3 @@
-Song about dual nature of Ayus and Abhava
-
 You sit in your room at the end of the day, noodling on your instruments, when a poem comes into your head. You idly begin to write, not paying much attention. Your right hand is moving on its own as the other hand taps out a basic beat. You realize you've been writing for a while, and in front of you is written:
 
 I am the truth

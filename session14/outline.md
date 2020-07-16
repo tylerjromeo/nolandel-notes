@@ -5,9 +5,12 @@
 * JoJo is focused on relief, but the decay keeps increasing and we can't figure out why. Magical detection wont work so we need good ol detective work 
 * Or maybe JoJo finds somethign out but then gets taken (damsel in distress trope is rough though)
 
+
 # The carnage
 ## pre fight
-You're travelling along the road to hammerfast and you can see the tops of the tallest buildings in hammerfast poking just above the horizon in the last light of the sun. As the group discusses whether to make camp for the night or press on, you crest a small hill and a smell hits you all at teh same time. This is a smell that you are very familliar with, Drang. It's the smell of a battlefield, after the battle is finished.
+Drang, you're 6 years old, standing next to your father, Sturm. You're on top of a small hill, overlooking the warriors of your tribe looting the village of Karhold. Most of Karhold's residents lie dead or bleeding on the ground. "Breathe in, son" Sturm says. The metallic, slightly sweet tang of blood and death fills your nose. "That's the smell of victory."
+
+And it's what you smell right now, with your 4 friends standing with you. You can see the tops of the tallest buildings in hammerfast poking just above the horizon in the last light of the setting sun as you crest a hill.
 
 Those of you with Darkvision see in tones of gray, dozens of bodies layed out in the road and off to the sides in the ditches and around the fields. THere is still enough twilight remaining for those of you without darkvision to see red, bloody footprints crisscrossing in every direction. The bodies are all positioned awkwardly and some in piles, any weapons or valuables seem to have been taken.
 
