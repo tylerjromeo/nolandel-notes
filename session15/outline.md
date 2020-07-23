@@ -28,4 +28,4 @@ Sturm - using new power to raid all over. Waiting for the wall to fall so that h
 
 Zaar - Has promised Sturn that the wall will fall (really the wall doesn't matter)
 
-Jarrus - Holed up in his house, furiously sending letters. There is a "reaper" in his house who will kill him if he behaves abnormally. The party can rescue him. The reaper is his butler. Butler answers door, asks them to leave. Mayor is upstairs in office.
+Jens - Holed up in his house, furiously sending letters. There is a "reaper" in his house who will kill him if he behaves abnormally. The party can rescue him. The reaper is his butler. Butler answers door, asks them to leave. Mayor is upstairs in office.

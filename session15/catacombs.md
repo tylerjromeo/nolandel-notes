@@ -24,3 +24,17 @@ The flesh wall churns, and a crude mouth forms in its center, You see a balloon 
 # the fight
 
 The flesh wall detaches from the pillars and forms a lump on the ground. That lump begins to form arms and legs. dozens of arms and legs pull the mass forward, forming and deforming to propel it as it advances on you.
+
+# The room
+
+With the monster defeated, the way into the chamber is open. Purple light pours out of the entrance. You see an orb sitting on a pedestal in the center of the chamber, pulsing with dark energy.
+
+`Standing 20 feet away ages you 1 year/hour. 5 feet away is 1 year/minute. touching it is 100 years in a minute.`
+
+On the ground by the pedestal is a crumbling, mummified body with short, white hair. The body has a rotten book clutched in his hands.
+
+The book appears to be a ledger of goods, but written on top of the faded columns is a fresher message.
+
+If you're reading this note, it did not work and I am dead. Mayor Hanotar hired me and an orc named Zaar to bring this thing down below the gray tower. After I put it here, the orc split the thing in two, and trapped me in here with half of it. I hate this orb. It makes me feel weak the closer I get to it. I'm tired of waiting, I'm going to knock it down. If you're reading this, find my wife, Arlene, and tell her Orelle is Vacationing in Ushad. Then kill Jens Hanotar and that fucking orc Zaar for me.
+
+- Orelle
