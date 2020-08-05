@@ -8,6 +8,8 @@ A man answers the door, wearing burgndy robes with black trim.
 
 "No. I am afraid the mayor will not be coming to the door today"
 
+(this guy may or may not be a demon. I dunno. Improvise)
+
 # inside
 
 hidden things:
@@ -16,3 +18,7 @@ hidden things:
 * two gold bracelets with rubies. Worth 800g apiece. Inscribed with the mayor's name "Jens Hanotar"
 
 The mayor is sitting at his desk, writing a letter. He's wearing a purple robe and a pair of spectacles on the tip of his nose. As he writes, his leg bounces up and down anxiously.
+
+# assassin
+
+Arlene is hidden in the garden, preparing to interrogate/assassinate the mayor.
