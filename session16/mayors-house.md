@@ -22,3 +22,8 @@ The mayor is sitting at his desk, writing a letter. He's wearing a purple robe a
 # assassin
 
 Arlene is hidden in the garden, preparing to interrogate/assassinate the mayor.
+
+* Mayors house
+    * Arlene is there to kill the mayor (with or without the party)
+    * Mayor reveals that he's been spending money to attract attention and that someone has been impersonating him
+    * "He said I'd be killed if I gave it away, so I attracted attention the only way I know how! Through scandal! I spent money like crazy hoping that someone would come investigate"
