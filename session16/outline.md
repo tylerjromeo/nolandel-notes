@@ -1,5 +1,13 @@
 * intro (drang just put on a kids boots backwards)
 
+Drang you hear the ragged breathing of the boy who's boots you put on get a little stronger, his head lifts up and he reaches a hand out towards you.
+
+his fingers are cold and slippery with blood. The boys eyes take a long time to focus, but they find yours.
+
+A long moment passes. The boy's lips are moving, just slightly, as if he's trying to speak.
+
+Suddenly behind you you hear a voice, like a cracking whip "WHAT ARE YOU DOING, SON? THAT ONE'S ALREADY BEEN CHECKED"
+
 * Meet Arlene
     * 5 kids
     * Wants to suss out what the party knows
