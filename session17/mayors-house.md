@@ -13,7 +13,7 @@ A man answers the door, wearing burgndy robes with black trim.
 # inside
 
 hidden things:
-* journal: "Today I have purchased a journal. I will be sure to write in it every day. They say record-keeping is one of life's most important skills!" The entry is date 8 months ago. THere are no other entries.
+* journal: "Today I have purchased a journal. I will be sure to write in it every day. They say record-keeping is one of life's most important skills!" The entry is date 8 months ago. THere are no other entries."
 * letter to builder: "I am not pleased with the windows on the upper floor, I am sure there is still a draft. Please replace them with pure volcanic glass. Name your price and I will pay it!"
 * two gold bracelets with rubies. Worth 800g apiece. Inscribed with the mayor's name "Jens Hanotar"
 
@@ -27,3 +27,9 @@ Arlene is hidden in the garden, preparing to interrogate/assassinate the mayor.
     * Arlene is there to kill the mayor (with or without the party)
     * Mayor reveals that he's been spending money to attract attention and that someone has been impersonating him
     * "He said I'd be killed if I gave it away, so I attracted attention the only way I know how! Through scandal! I spent money like crazy hoping that someone would come investigate"
+
+# update
+
+rework this to have arlene fighting on the players side. More assassin demons with lower hp.
+
+after the fight servents are leaving/looting. Investigation check if they want to find either the stuff above or just straight gold/jewelry (roll * 200) gold
