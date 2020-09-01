@@ -38,3 +38,21 @@ Matt's notes:
         Duur-Ima is an only child. Her father is Itham (EE-themm) and her mother is Eirina (Aa-REE-nah).
         When Duur-Ima left Emmnor, her father supported her decision. Her mother was furious and though she did not go so far as to disown Duur-Ima, the two did not speak in the weeks leading up to Duur-Ima’s departure.
         She has not returned to Emmnor since and knows nothing about its condition.
+
+
+Flashback prompt:
+For seven years, Duur-Ima and Nalen lived in complete isolation wkthout a single person ever crossing their paths. Their hermitage consisted of a single, tiny cabin that they called a temple - but if anyone else ever stumbled upon it, they'd be more likely to assume it was a larger than average outhouse than a place of somber, reflective practice.
+
+Somewhere shortly after the start of their eighth year in seclusion, something seemed to clear. The deep, self-inflicted scars left by their years of devotion to Shar and the Circle of the Dark Moon had stopped festering, even if they hadn't healed completely. Years of silent meditation, deep and nearly unbroken, had been like a blood letting. This deep reflection had left both ready to reach out to the world and attempt to somehow make amends.
+
+The nearest village was a four day hike, a treacherous descent from their moutainous home to a valley far below. In the years that followed, they would make the journey to the village several times a year, staying for a few weeks at a time. Duur-Ima and Nalen developed a relationship with the humans that lived there. At first they weren't sure _how_ to help - neither felt much adept at anything other than sitting in silence at that point - but the calm that both women brought to the village seemed to  provide a salve to the community, and in time they came to be respected for their sage - if unconventional wisdom.
+
+On one trip to the village, both Duur-Ima and Nalen recognized immediately that something had changed. The grasses of the fields still seemed to nourish the livestock, but they seemed less vibrant, less alive. It was just now midsummer, and the leaves had begun to turn, months earlier than they ever had.
+
+Children in the village looked weak, and parents seemed to take on illnesses more often than normal. All of it was subtle.
+
+Nalen was deeply concerned. When the time came for the two to return to their hermitage, Duur-Ima, who hungered for the seclusion of their mountain home, convinced Nalen that all would be well. She reminded Nalen that there was little the two could do now, and that when they returned in the fall, they'd take stronger action if necessary.
+
+But winter came exceptionally early that year and blanketed their mountain in impassable ice and snow. By the time the two women were able to return to the valley in the spring, they found a desolate land, devoid of any green. Of the 400 villagers they had left the previous summer, only three remained, and two were near death.
+
+The lone villager who was still lucid enough to explain what had happened told a simple story - a great blight had ravaged their land.
