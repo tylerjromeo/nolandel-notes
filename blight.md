@@ -23,6 +23,28 @@ Players:
 * Duur-Ima's family (Itham, supportive but distant) (Eirina, brilliant, but passive agressive)
 * Patriarch of the human's community, Judge Giles Proctor
 
+Areas:
+* Nalen's hermitage
+- Nalen has been having nightmares of the approach of Shar
+
+* Wood Elf Community of Emmnor
+- looks liek Lothlorien, acts like rivendell.
+- unique wildlife, very difficult terrain to cross
+- forest canopy has holes in it
+- The Koapa tree has been dying, and the wild Yarrels (hork-bajir/wolves) have been unable to eat their bark.
+- Itham has been working on a "painted tree" for the last several years. Beautiful but pointless. Eirina is annoyed anyone is there and very standoffish. She's also been the de facto military leader in defense against Hesterston (cold war type situation)
+
+* Human Community of Hesterston. Worshippers of Lathander (morning sun god)
+ - do some midsommar shit here
+ - Their fields are dying, and contain the source of the blight, but they will not let anyone who is not pure and of the community in. It is divinely warded against intrusion
+ - Do not like the elves. Have been cutting down their trees for lumber.
+
+ fronts:
+ - Kourian Graves is approaching. He has grown montrous and has a lot of toadies and rpsioners with him (think arya stark's in a clash of kings)
+ - He offers to drive the elves from the woods, and is accepted by Hesterston
+ - He wants Nalen and Duur-Ima dead
+ - He has destroyed all of the Dark Moon chapters between Roorsven and here, absorbing their power.
+
 Matt's notes:
     Emmnor and “The Long Waste"
         Emmnor is in the central region of Southern Nolandel.
