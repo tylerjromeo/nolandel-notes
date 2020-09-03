@@ -1,3 +1,11 @@
+# intro
+
+Duur-Ima, you are sitting, eyes closed in front of a dying fire, focused on the ki flowing from the center of your body, to the tips if your fingers, and down into the earth below your simple mountain cabin.
+
+At the edge of your conciousness, you hear the front door creak and the light footfalls of your mentor, Nalen walking in. She has returned from scouting the village to the northwest.
+
+No dark moon. They are just... people.
+
 # Hang glide into town
 
 fight 2x chimera in the air
@@ -24,10 +32,40 @@ You see the mountain where you and Nalen lived for many years. You could find yo
 
 # forest
 
+platforms in high trees, with broad ladders in each.
+
+The place appears grown, not built.
+
+Elves around, they are suspicious of the non-humans. Some of them know Duur-Ima
+
+There is commerce here, mostly art.
+
+The *people* look sickly, but they are hiding it.
+
+Adrie, Birel, Chaedi, Dara, Enna, Faral, Irann, Keyleth, Lia, Mialee, Shava, Thia, Valna
+Adran, Aelar, Beiro, Carric, Erdan, Gennal, Heian, Lucan, Peren, Rolen, Theren, Varis
 
 
 # farmland
 
+See blight clearly from overhead
+
+Rebuffed by barrier
+
+zealots attempt to take them prisoner
+
+Human Community of Hesterston. Worshippers of Lathander (morning sun god)
+
+Judge Giles Proctor
+
+Goodwife Millicent Proctor
+
+Show signs of starvation. They are suffering, and their leadership is shitty.
+
 # hermitage
 
-# campe
+Let Matt lead with some description
+
+Nalen 
+
+# camp
