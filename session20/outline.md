@@ -6,6 +6,9 @@ At the edge of your conciousness, you hear the front door creak and the light fo
 
 No dark moon. They are just... people.
 
+THey goo out the door
+
+
 # Hang glide into town
 
 fight 2x chimera in the air
@@ -21,7 +24,7 @@ overhead view of the "playground"
 
 # choice
 
-Dense canopy of the forest. The trees have broad leaves and are a pale green. It doesn't look as lush as you remember it.
+Dense canopy of the forest in the center of "The Long Waste" The trees have broad leaves and are a pale green. It doesn't look as lush as you remember it.
 
 large, rectabgle patterns on the ground to the east of the forest. Someone has set up farmland, which is not something you remember.
 
@@ -30,7 +33,7 @@ You see the mountain where you and Nalen lived for many years. You could find yo
 (perception check) To the north of the mountain, you see a path. It's hard to tel lfrom this height, but you think there is movement on the path, as if there are a lot of people on it.
 
 
-# forest
+# forest Aerith Sang
 
 platforms in high trees, with broad ladders in each.
 
