@@ -21,7 +21,7 @@ Players:
 * Nalen
 * Kourian
 * Duur-Ima's family (Itham, supportive but distant) (Eirina, brilliant, but passive agressive)
-* Patriarch of the human's community, Judge Giles Proctor
+* Patriarch of the human's community, Judge Giles Parris
 
 Areas:
 * Nalen's hermitage
