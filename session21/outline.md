@@ -8,6 +8,8 @@ As you sit, a small child comes up to you and taps you on the leg "Hi! I'm Annab
 
 "Come dance with me! Don't you know how to dance?"
 
+Got annabelle to play the lute in front of the whole community. Her Grandmother is beatrice
+
 # Emmnor
 
 You're sitting at Itham's place. You've found it to be very comfortable. It's been a while since he left, the sun is setting and you see some birds diving at each other in the distance.
