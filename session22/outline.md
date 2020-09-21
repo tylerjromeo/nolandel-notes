@@ -18,12 +18,11 @@ You see a man in gold and red robes. He has salt and pepper hair and sharp featu
 "Those touched by the light of dawn can do no evil"
 "Fear the Shadow, hidden from His light"
 
-# The 4 wards
+# The 3 wards
 
 1. Single priest
 2. priests guarded by soldiers
 3. priest guarded by magical automoton
-4. priest guarded by holy traps
 
 # PSI approaching
 
