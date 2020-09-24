@@ -78,3 +78,17 @@ Nalen was deeply concerned. When the time came for the two to return to their he
 But winter came exceptionally early that year and blanketed their mountain in impassable ice and snow. By the time the two women were able to return to the valley in the spring, they found a desolate land, devoid of any green. Of the 400 villagers they had left the previous summer, only three remained, and two were near death.
 
 The lone villager who was still lucid enough to explain what had happened told a simple story - a great blight had ravaged their land.
+
+
+# 3 am thoughts
+
+if they are trapped inside, empire makes them box up possessions before coming out.
+
+Kourian should be like "the horde"
+"rejoice and revel in the loss. Either you lose to me in battle, or you kill me and lose your connection with Shar"
+He contains:
+* Kourian
+* Ayushma
+* Corvus
+* Kherroc
+* Vladimir
