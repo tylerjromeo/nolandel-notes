@@ -20,7 +20,7 @@ Lt. Carrow is a cruel man. Graves can give him any unsavory assignment and it wi
 
 # Smoke weapon
 A 3 feet long metal tube That uses elemental smoke to propell a ball of lead at extreme speeds.
-As an action, use the smoke weapon to deal 3d10 magical piercing damage. No save, no AC. One smoke weapon can hold 6 charges of elemental smoke. It can be refilled from a source of smoke using a stadnard action.
+As an action, use the smoke weapon to deal 3d10 magical piercing damage to a target up to 150 feet away. No save, no AC. One smoke weapon can hold 6 charges of elemental smoke. It can be refilled from a source of smoke using a stadnard action.
 
 # flashback
 
