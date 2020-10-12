@@ -5,3 +5,5 @@ Kiri has sensed the imbalance, needs to find a way to recall her friends back fr
 Players fight ruin on a map of nolandel, in godzilla mode
 
 Kiri is with Torshuul, Morelian, and JoJo, working on a way to bind Ruin.
+
+shar and ruin make eye contact in epilogue
