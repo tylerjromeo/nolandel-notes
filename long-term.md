@@ -24,6 +24,9 @@ planted Drang's sword
 showed Kiri the prophecy
 Manipulated Marwen to put the abhava beneath Hammerfast
 Gave everyone visons (session 14.5)
+Chose the location for Hesterston
+Gave Nalen visions of Shar approaching
+Taught Empire wizards how to use an anchor in the plane of air to spread smoke
 
 Powers:
 Elemental surge: If 2 or more members of the party are bloodied, you deal an additional 1d10 elemental damage on attacks.
