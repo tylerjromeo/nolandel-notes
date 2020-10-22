@@ -14,6 +14,8 @@ she wants to play
 
 if they don't do riddles she animates trees/vines to pick them up
 
+
+
 # Baby Dragon
 
 small dragon emereges from the woods and menaces them. Once he is impressed, shows off the Hoard of siny coins. Group pet?
@@ -29,9 +31,9 @@ for D-I she points in a direction and will see 90 * roll/20 degrees for a field 
 first to 2 wins
 
 
-# Inn scene
+# Inn scene (optional)
 
-They find an Inn, but JoJo doesn't want to go in
+They find an Inn, but JoJo doesn't want to go in. Several years ago she "accidentally" set some wolves on a guy who was cheating at cards.
 # Machine city approach
 
 After a long journey, you finally see your destination on the Horizon. The Machine City of Glenham. The steel-worked walls loom, streatching far in both directions and you can see the skyline shifting as the mechanisms in teh tall buildings move. And above the city in the sky, you see several dark plumes forming in the air, making a funnel of smoke from the sky into the city.
