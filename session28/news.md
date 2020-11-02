@@ -1,0 +1,3 @@
+Breaking! The brave troops of Emperor Esmer have, at long last, broken through Ushadi defenses at the border with Nolendel. Sources say the victory was descisive, oweing largely to new research out of our own Machine City Glenham giving our troops the edge they need.
+
+The good Imperial citizen of Orreton and Fallbrook may see smoke on the horizon or overhead. Residents are advised to move inland for a few weeks while this temporary situation clears itself up. I have word from Emperor Esmer's head wizards that the sky will be visible again soon.
