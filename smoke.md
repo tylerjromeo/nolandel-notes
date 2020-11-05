@@ -12,6 +12,8 @@ The air at the border with Ushad is very bad, but this advantage is allowing the
 
 Machine City Glenham is a city of gears, clockwork and machines. It supplies machine parts and precision metalwork for all of Nolandel. The city is the home to The Craftsman's guild, and the vast majority of master craftsmen live in Glenham. The city is divided into several borouighs, including the Military borough, where soldiers live; crafter's borough, where the guild hall and workshops are; research borough, a new area for the imperial's new research facility; religious borough, where the temple of Primus is housed; steel borough home of the mysterious mute automotons that Imperials call "warforged", and the living borough, where housing food, and other necessities for life can be found. The city also has a parcel of swampy forest near its center, housing a vibrant community of druids. The population of Machine City Glenham is majority halfling, with many gnomes, dwarves and elves. The human population is on the rise, particularly in the research quarter, where Imperials have set up an self-contained community.
 
+The city is governed by a council of 12. 11 of which are elected, and 1 is chosen by lottery from the populace each day to participate. The council meets in a moving structure called "the pinion" Which moves along a track above the edge of the circular city. The pinion circumnavigates the city twice each day, and it's position always matches the current time on a clock
+
 "secret" weapons research facility that everyone knows about
 
 Harold of Tangrell has gone full imperial, but he's planning a heist.
@@ -53,3 +55,7 @@ Henry left Esmeria as soon as he was released from prison. He knew if he got in 
 
 (You could include a scene some years before the Incident with smoke as well if you want. It might also be cool to have something in prison with smoke, but I have no ideas for either scenario. Just offering that in case you want more to draw from than what I wrote.)
 (Also a quick reminder, Henry is only 52. He acts much older than he actually is.)
+
+tyler notes: Harold's betrayal must be ambiguous. Harold will lie and say he was captured too, and got transferred to another prison, but the guild got him this position as back pay. Maybe the guild will help you out too!
+
+"they told me you were dead by the time I got out!"
