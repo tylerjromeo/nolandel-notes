@@ -1,5 +1,13 @@
 # flashback
 
+You and Harold are in the basement of the manor, loading up gold bars, jewels, and documents into a chest
+
+"What are you gonna do with your share Henry?"
+
+"I'm eating steaks every day for a month"
+
+There's a click, a hiss, and an explosion
+
 # Heist planning
 
 argue about splitting the take?
@@ -33,9 +41,35 @@ CLOCKTOPUS?
 
 sliding tile puzzle?
 
-1.
+1. Must flip all switches to get treasure.
+2. weird entrance, trapped treasure chest
+3. Rotating platforms. Fight. switches change direction of platforms
+4. sliding puzzle controls
+5. floating platforms fight
+6. secret passage between two sides
+7. Treasure chest with tool for sliding puzzle
+8. big pit (hidden switch for side path) (grease or 40 foot fall)
+9. "the teeth" crushing trap
+10. traps
+11. clock puzzle with controls
+12. traps
+13. empty
+14. boulder trap
+15. greased slope
 
 TODO: maps/traps/enemies/treasure for 1-15
+
+traps:
+fire breather. DC 13 dex. 4d10 fire damage
+Indiana jones sphere
+Spike/blade trap DC 13 dex 4d6 slash
+gear/foot trap DC13 dex, DC 20 strength to get out. 2d10 bludgeoning + hobbled.
+
+treasure:
+Robe of stars (DMG 194)
+*3 Oil of sharpness
+medallion of thoughts
+
 
 Sliding puzzle tiles
 
