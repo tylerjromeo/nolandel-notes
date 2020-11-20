@@ -10,6 +10,12 @@ There's a click, a hiss, and an explosion
 
 # Heist planning
 
+Icy and Dicey, twin halfling rogues. 
+Beartrap, Dwarven Guild Metalworker and former Imperial employee. 
+Razor the Steelkin. 
+Sparks, halfling wizard. 
+Piper, the human Captain of Glenham's guard, and fence.
+
 argue about splitting the take?
 
 * Getting in. Magic memory guy. Steelkin entrance
