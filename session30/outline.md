@@ -10,7 +10,7 @@ You get out into the street, cool air fills your lungs. But the hand doesn't let
 
 # Session
 
-look at the fdungeon stuff from last outline.
+look at the dungeon stuff from last outline.
 
 # afterward
 
