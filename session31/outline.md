@@ -14,6 +14,13 @@ Eirinia is skeptical of the plan
 
 # The crew
 
+Whetstone, leader.
+Icy and Dicey, twin halfling rogues. 
+Beartrap, Dwarven Guild Metalworker and former Imperial employee. 
+Razor the Steelkin.
+Sparks, halfling wizard. 
+Piper, the human Captain of Glenham's guard,
+
 Piper can escort the infiltration team directly to the source as a "repair team" (sabotage organized by Razor, designed by Beartrap)
 
 The mechanism isn't draining excess smoke properly, it's filling the work area unless it's vented continuously
